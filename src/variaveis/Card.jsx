@@ -22,12 +22,12 @@ function Card({nome,rec,link}){
                         </div>
                     </div>
                 </div>
-                <div className="nomep">
-                    <h3>{nome}</h3>
+                <div className="nomep cardf" >
+                    <h3 >{nome}</h3>
                 </div>
-                <div className="acessa">
+                <div className="acessa ">
                     <a href={link} target="_blank" rel="noopener noreferrer">
-                        <button className="ace">acessa</button>
+                        <button className="ace cardf">conhecer</button>
                     </a>
                 </div>
             </div>

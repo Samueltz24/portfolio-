@@ -6,11 +6,9 @@ function Apresentacao(){
         <section className="apresentacao">
             <div className='separa'>
                 <div className='eu'>
-                    <h2>portifolio</h2>
+                    <h2>portfolio</h2>
                 </div>
-                <div className='eu'>
-                    <img className='ima' src={samuka} alt="" />
-                </div>
+        
             </div>
         </section>
         </>
